@@ -12,4 +12,4 @@
 
 
 
-![SSD](/images/ssd.png)
+![SSD](https://github.com/Sahana-M/Images/blob/master/ssd.png)
