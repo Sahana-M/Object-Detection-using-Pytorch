@@ -4,7 +4,7 @@
 
 ### *The process goes like this*
 
-- here I am using pre-trained SSD neural network 
+- here I am using pre-trained SSD (Single Shot multibox Detector)
 - Video will be broken down into frames 
 - SSD will be run on each frame trying to detect an object
 - If the score of the returned detection tensor has a score of more than 0.6 then the object has been detected
@@ -12,3 +12,4 @@
 
 
 
+![SSD](/images/ssd.png)
