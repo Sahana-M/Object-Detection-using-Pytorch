@@ -1,4 +1,4 @@
-# Object-Detection-using-Pytorch
+# Object-Detection-with SSDs(Single Shot multibox Detection) using Pytorch
 
 ### Before addressing Object detection we need to have an idea of Convolution Neural networks(CNN)
 
